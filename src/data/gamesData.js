@@ -5,7 +5,7 @@ export const gamesData = [
     genre: "Acción",
     platform: "PS5, PC",
     description: "Un juego de acción inspirado en la mitología china lleno de combates desafiantes.",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSh8ab5-XdXnLxSiLhOV__NiD31VS2L-sE3iosvEVs8Q&s=10"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const gamesData = [
     genre: "RPG",
     platform: "PS5, Xbox, PC",
     description: "Explora un vasto mundo de fantasía oscura y supera batallas épicas.",
-    image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjESJmgrbWTI82wNPJwzldxTEDkAEFzzbWPouL7K7uA&s=10"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const gamesData = [
     genre: "Aventura",
     platform: "Nintendo Switch, PC",
     description: "Aventura en 2D dentro de un antiguo reino subterráneo de insectos y héroes.",
-    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9MKLjzo_bIk-AFmcL7qVcGP_D17rjyygGSC9FwJNEg&s"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const gamesData = [
     genre: "Carreras",
     platform: "Xbox, PC",
     description: "Recorre paisajes abiertos en México conduciendo cientos de autos deportivos.",
-    image: "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzj4GbuvGrtIGE0oUZiezvKe-rKUY3dvG5M0exDc8lUA&s=10"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const gamesData = [
     genre: "RPG",
     platform: "PS5, Xbox, PC",
     description: "Reúne a tu grupo en una historia de rol donde cada decisión cambia tu destino.",
-    image: "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9vNKU7OIyrQ-iwt12J93nAHph5aLGO6SlC7pFKosag&s=10"
   },
   {
     id: 6,
@@ -45,6 +45,6 @@ export const gamesData = [
     genre: "Aventura",
     platform: "Nintendo Switch",
     description: "Explora la tierra y los cielos de Hyrule creando tus propias herramientas.",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=600&q=80"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dqydZU8vcftgBtTv3IwBZ8QUdaCALCcmcWngXAf0RQ&s=10"
   }
 ];
