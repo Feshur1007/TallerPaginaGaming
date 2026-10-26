@@ -7,6 +7,7 @@ function Filters({ genre, platform, setGenre, setPlatform, onReset }) {
         <option value="RPG">RPG</option>
         <option value="Aventura">Aventura</option>
         <option value="Carreras">Carreras</option>
+        <option value="Estrategia">Estrategia</option>
       </select>
 
       <select value={platform} onChange={(e) => setPlatform(e.target.value)}>
